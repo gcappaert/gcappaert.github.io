@@ -1,7 +1,8 @@
-My name is Gustav Cappaert. I'm primarily a clinician (physician assistant), but with avid interests in [technology](https://github.com/gcappaert), data science, language, and journalism. I used to do some [audio production](https://soundcloud.com/gustav-cappaert/sets/radio-kausay-wasi-materials?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing) and I'm always up for a little project.
+My name is Gustav Cappaert. I'm primarily a clinician (physician assistant), but with avid interests in [technology](https://github.com/gcappaert), making, data science, language, and journalism. I used to do some [audio production](https://soundcloud.com/gustav-cappaert/sets/radio-kausay-wasi-materials?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing). 
 
+I'm always up for an interesting project. Feelfree  to [send me an email](mailto:gcappaert@gmail.com).
 
-### Some selected articles and opinion pieces:
+### Selected articles and opinion pieces:
 
 * On my own
     * [Rabies Is Terrifying but Rare. Are We Overtreating It?](https://undark.org/2021/02/18/overtreating-rabies/)
@@ -14,3 +15,5 @@ My name is Gustav Cappaert. I'm primarily a clinician (physician assistant), but
     * [The road to Machu Picchu, traveled on the backs of its builders](https://seattleglobalist.com/2014/04/07/road-to-machu-picchu-travel/22486)
     * [With its own satellite, Bolivia hopes to put rural areas on the grid](https://www.ipsnews.net/2014/06/with-its-own-satellite-bolivia-hopes-to-put-rural-areas-on-the-grid/)
     * [Need cash fast? Ask Reddit](https://www.theatlantic.com/business/archive/2016/05/reddit-borrow-peer-loan/481698/)
+
+
